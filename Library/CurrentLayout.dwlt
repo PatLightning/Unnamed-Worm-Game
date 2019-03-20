@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 474}
   m_MaxSize: {x: 14002, y: 14024}
   vertical: 0
-  controlID: 51
+  controlID: 49
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 12
+  controlID: 83
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -439,9 +439,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 15.8016, y: -37.72658, z: 24.780539}
+    m_Target: {x: 29.933165, y: -31.63129, z: 38.909027}
     speed: 2
-    m_Value: {x: 15.8016, y: -37.72658, z: 24.780539}
+    m_Value: {x: 29.933165, y: -31.63129, z: 38.909027}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -469,13 +469,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.3987412, y: -0.21675618, z: 0.09758074, w: 0.8857202}
+    m_Target: {x: 0.33492103, y: -0.15588684, z: 0.056287088, w: 0.9275554}
     speed: 2
-    m_Value: {x: 0.3987412, y: -0.21675618, z: 0.09758074, w: 0.8857202}
+    m_Value: {x: 0.33492103, y: -0.15588684, z: 0.056287088, w: 0.9275554}
   m_Size:
-    m_Target: 92.9018
+    m_Target: 94.97409
     speed: 2
-    m_Value: 92.9018
+    m_Value: 94.97409
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -557,7 +557,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 45
-  m_LastProjectPath: C:\Users\Joey\Documents\GitHub\UnnamedWormGame\Unnamed Worm Game
+  m_LastProjectPath: C:\Users\Joey\Documents\GitHub\Unnamed-Worm-Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -619,7 +619,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
